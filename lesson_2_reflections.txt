@@ -1,0 +1,11 @@
+¿Qué pasa cuando inicializas un repositorio?  
+Preparo el ambiente para guardar el historial de los cambios al documento
+
+¿Por qué es necesario hacerlo?
+Para comenzar a guardar el historial
+
+¿Como es diferente el “staging area” de una carpeta de trabajo y de un repositorio?
+En el staging area es donde definimos los archivos que van a guardar sus actualizaciones, como carpeta temporal y el repositorio, es donde realmente, guardamos todos estos cambios realizados a dichos archivos escogidos.
+
+¿Cuál es el valor que esta ofrece?
+Más bien de organización de los momentos del desarrollo de nuestra actividad
