@@ -1,0 +1,17 @@
+¿Cómo es que el ver dos versiones diferentes de un archivo te ayuda a visualizar un error escrito?
+Regularmente, cuando no funciona un programa poder restablecer otra versión en donde no funcionaba correctamente, por medio de la fecha y la hora de grabación.
+
+¿Cómo el tener acceso al historial completo de un archivo te hace más eficiente como programador a largo término?
+Debido a que se lleva un mejor control en el desarrollo de una aplicación, debido a que podemos ir evaluandolo paso a paso.
+
+¿Cualés crees que sean los pros y los contras de elegir cuando hacer un commit de forma manual (como lo haces con git), contra que los cambios se hagan de forma automática (como google docs lo hace)?
+Ciertamente, los cambios en git uno los controla y a criterio del programador, no como lo hacen programas como google docs, de forma automática.
+
+¿Por qué crees que algunos sistemas de control de versiones permiten guardar los cambios de multiples archivos en un commit, mientras otros como Google Docs manejan cada archivo de forma separada?
+Realmente, no está muy claro, en este momento, pero tiene que ver con la forma de organizar los commits de multiples archivos, para aglutirlos en un sitio en particular.
+
+¿De qué manera el uso de un sistema de control de versiones puede darte la confianza de hacer cambios en tu proyecto que podrían dañar o alterar su funcionamiento?
+Es importante estar llevando el seguimiento de mi desarrollo, por medio del control de versiones podemos detectar, en qué momento, mi programa estaba trabajando bien, y cuando apareció el error...
+
+Ahora que tienes tu entorno de trabajo configurado¿Qué te gustaría intentar hacer utilizando Git?
+Bueno, conocer la forma de trabajar articuladamente, con Github
