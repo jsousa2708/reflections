@@ -1,3 +1,6 @@
 
 ¿Por qué querrías hacer siempre tus “pull” de forma manual en lugar de que Git se mantenga actualizado y en coordinación con tu repositorio remote de forma automática?
 Pienso que para mayor control, paso a paso, aunque creo que debe haber alguna forma para que, de lo que grabo en github, pueda actualizarlo a la cuenta local.
+
+Describe las diferencias entre forks, clones y branches y di para que utilizas cada uno. 
+folks lo utilizamos para rescatar, de otro usuario o colaborador, un repositorio, por medio de github, en cambio cuando clonamos lo podemos hacer desde nuestro git bash, o de forma local conectandonos a la nube y los branches para ir cambiando de rama, luego de haber copiado del master, para realizar las pruebas sin afectar el master, se harían de forma independiente sin que afecte el origen que en este caso seria el master.
