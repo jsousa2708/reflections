@@ -1,1 +1,3 @@
 
+¿Por qué querrías hacer siempre tus “pull” de forma manual en lugar de que Git se mantenga actualizado y en coordinación con tu repositorio remote de forma automática?
+Pienso que para mayor control, paso a paso, aunque creo que debe haber alguna forma para que, de lo que grabo en github, pueda actualizarlo a la cuenta local.
