@@ -15,3 +15,16 @@ Es importante estar llevando el seguimiento de mi desarrollo, por medio del cont
 
 Ahora que tienes tu entorno de trabajo configurado¿Qué te gustaría intentar hacer utilizando Git?
 Bueno, conocer la forma de trabajar articuladamente, con Github
+
+¿Cómo puedes usar el “staging area” para asegurarte que tienes un commit por cambio lógico?
+Realmente es un área temporal o carpeta temporal para contener en el los archivos que participaran en el commit, el staging area, verifica si hay commits pendiendes por cargar en el repositorio, para eso nos manda un mensaje que existen commits pendientes a ejecutar...
+
+¿Cuáles son algunas situaciones en las que los branches te ayudarían a mantener tu historial organizado?
+
+Claro, podemos comenter un error grabando commits en los branch inadecuados
+
+¿Cómo podrían los branches ayudar?
+Nos ayuda a ubicarnos correctamente en el branch en el que estaremos trabajando...
+
+¿Cómo te ayudan los diagramas a visualizar la estructura de un branch?
+Es de mucha importancia diagramar la visualización de la estructura de los branch, es lo mismo del desarrollo de los algoritmos a nivel de programación, aclararan los momentos en el desarrollo de los programas...
