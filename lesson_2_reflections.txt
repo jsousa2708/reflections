@@ -9,3 +9,6 @@ En el staging area es donde definimos los archivos que van a guardar sus actuali
 
 ¿Cuál es el valor que esta ofrece?
 Más bien de organización de los momentos del desarrollo de nuestra actividad
+
+¿Cuáles son los pros y los contras del merging automático contra hacer todos los merging de forma manual?
+Como en todos las actualizaciones, si lo hacemos automáticos, podemos tener problemas para ubicar los errores y poderlos corregir manualmente...
